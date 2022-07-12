@@ -1,1 +1,1 @@
-# 2022_07_13_kit_or_seminar
+# 2022-07-13 KIT Seminar OR on Quantum Optimization
