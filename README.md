@@ -2,4 +2,4 @@
 
 to get started, run:
 
-pip install 'qiskit-optimization[cplex]'
+`pip install 'qiskit-optimization[cplex]'`
